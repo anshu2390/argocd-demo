@@ -28,14 +28,6 @@ serviceAccount:
 
 podAnnotations: {}
 podLabels: {}
-
-<<<<<<< HEAD
-env:
-  APP_VERSION: f9467570d634c67a7ea1a77bc5f6eceaae3f4a3c
-=======
-#env:
-#  APP_VERSION: f9467570d634c67a7ea1a77bc5f6eceaae3f4a3c
->>>>>>> 3c2f200 (WIP: saving local changes before rebase)
 podSecurityContext: {}
   # fsGroup: 2000
 
