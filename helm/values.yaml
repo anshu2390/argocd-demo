@@ -31,10 +31,10 @@ podLabels: {}
 
 <<<<<<< HEAD
 env:
-  APP_VERSION: f817e1ec020cab111faa9f6ff766fbd360b3347a
+  APP_VERSION: f9467570d634c67a7ea1a77bc5f6eceaae3f4a3c
 =======
 #env:
-#  APP_VERSION: 6daa6a4516810a529ac1aee109d93cb4970492ad
+#  APP_VERSION: f9467570d634c67a7ea1a77bc5f6eceaae3f4a3c
 >>>>>>> 3c2f200 (WIP: saving local changes before rebase)
 podSecurityContext: {}
   # fsGroup: 2000
